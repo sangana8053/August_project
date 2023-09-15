@@ -1,3 +1,4 @@
+SQL Queries
 In real-time, DB designers/ modelers / architects / senior developers will prepare 
 
 a) Database model / design
